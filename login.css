@@ -6,19 +6,19 @@ body{
     background-image: url(https://res.cloudinary.com/practicaldev/image/fetch/s--BuPz-p40--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/nphrgz8yfnjylrwfr0yl.png);
 }
 .container{
-    background:transparent;
+    background: transparent;
     border: 2px solid black;
     width: 70%;
     height: 70%;
     border-radius: 3%;
-    margin-left: 35%;
+    margin-left: 30%;
     margin-right: 40%;
     box-shadow: 4px 4px white;
     margin-top: 10%;
     text-align: center;
     color: white;
     height: 50%;
-    width: 30%;
+    width: 40%;
 }
 .container:hover{
     background-color: black;
